@@ -17,7 +17,7 @@ cdf <- read.csv("Data/new_df.csv")
 ui <- fluidPage(
   
   # Title
-    titlePanel("Emory Engagement Survey"),
+    titlePanel("Engagement Survey"),
     
     fluidRow(
     
